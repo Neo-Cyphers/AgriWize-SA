@@ -65,7 +65,7 @@
 - Welcome/Login Screen
 ![My Screenshot](Resources/Pictures/WelcomePage.jpg)
 - Weather Dashboard
-![My Screenshot](Resources/Pictures/WeatherAnalysisPage.jpg)
+![My Screenshot](Resources/Pictures/WeatherAnalysispage.jpg)
 - Market Analytics
 ![My Screenshot](Resources/Pictures/MarketAnalysis.jpg)
 - Crop Detail View
