@@ -69,7 +69,7 @@
 - Market Analytics
 ![My Screenshot](Resources/Pictures/MarketAnalysis.jpg)
 - Crop Detail View
-![My Screenshot](Resources/Pictures/bandicam 2025-06-11 13-47-00-663.jpg)
+![My Screenshot](Resources/Pictures/cropCategory.jpg)
 
 ### Video Demo
 
